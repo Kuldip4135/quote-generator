@@ -60,6 +60,7 @@ p {
   transition: all 0.6s ease;
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus {
   background-color: #fff;
 }
